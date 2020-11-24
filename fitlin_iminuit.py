@@ -1,4 +1,3 @@
-from   ROOT    import *
 from   iminuit import Minuit
 from   numpy   import *
 
